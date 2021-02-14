@@ -1,0 +1,9 @@
+# git ignore
+
+.vscode
+
+# Virtualenv
+bitcoinvaluetracker
+
+# secret files
+secret_files

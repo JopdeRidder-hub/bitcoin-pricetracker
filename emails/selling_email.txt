@@ -1,0 +1,9 @@
+Hi ${NAME}, 
+
+The current Bitcoin price is: €${CURRENT_BITCOIN_PRICE}
+
+It could be a good moment to SELL as you requested us to send an email if the price went higher than €${SELLING_PRICE}.
+  
+Have a great weekend! 
+
+Yours Truly
